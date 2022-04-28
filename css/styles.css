@@ -1,0 +1,38 @@
+ul label{
+    color:white;
+    margin-right: 65%;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.nav-link:hover{
+      color: lightcoral;
+      background-color: white;
+}
+ul .nav-link{
+    color: white;
+}
+.Snacks{
+    background-image: url(../images/cookies\ 3.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 650px;
+}
+.Snacks p{
+    text-align: right;
+    font-size: 55px;
+    margin-top: 10%;
+    margin-right: 8%;
+    font-weight: bolder;
+    color: black;
+    text-shadow: 1px 1px black;
+}
+.Snacks i{
+    font-size: 25px;
+    color: crimson;
+    text-shadow: none;
+}
+.btn{
+     text-shadow: none;
+     font-weight: bold;
+     
+}
